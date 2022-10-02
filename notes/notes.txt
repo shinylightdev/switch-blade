@@ -1,0 +1,24 @@
+
+Packages
+  npm i moment
+  npm i glob
+  npm i simple-git
+  npm i recursive-copy
+  npm i fs-extra
+
+Files
+  https://nodejs.org/docs/latest/api/fs.html#fsrmsyncpath-options  
+
+Promises
+  https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises
+
+Modules
+  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
+  https://flaviocopes.com/es-modules/
+
+Rant
+  https://gist.github.com/joepie91/bca2fda868c1e8b2c2caf76af7dfcad3
+
+Helpful Packages
+  https://www.codecademy.com/article/getting-user-input-in-node-js
+

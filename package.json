@@ -9,8 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "fs-extra": "^10.1.0",
     "glob": "^8.0.3",
-    "moment": "^2.29.4"
+    "moment": "^2.29.4",
+    "recursive-copy": "^2.0.14",
+    "simple-git": "^3.14.1"
   },
   "type": "module"
 }
